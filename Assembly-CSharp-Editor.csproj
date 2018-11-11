@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{A194E800-52D2-3CCF-9301-AA6095F821D2}</ProjectGuid>
+    <ProjectGuid>{149DF654-6E06-6647-0636-F272566509C7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -69,16 +69,16 @@
     <Compile Include="Assets\SXR\Editor\SXRExternalCameraEditor.cs" />
     <Compile Include="Assets\SXR\Editor\SXRWindow.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/sarthak/SXR Hackathon/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/sarthak/SXR-ARVR/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/sarthak/SXR Hackathon/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/sarthak/SXR-ARVR/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/sarthak/SXR Hackathon/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/sarthak/SXR-ARVR/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/sarthak/SXR Hackathon/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/sarthak/SXR-ARVR/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -371,11 +371,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{410DEA6F-9D97-F218-A62B-669D2EB9FC39}</Project>
+      <Project>{78FE1D32-3657-06DC-83E3-B95E16D7914F}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{727C7A34-AAB5-5344-4B24-180C51FF4395}</Project>
+      <Project>{D0023AB3-D7C9-D79F-BA1F-8AF43DA4364D}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
